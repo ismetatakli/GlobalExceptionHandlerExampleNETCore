@@ -1,0 +1,6 @@
+@GlobalExceptionHandlerExample_HostAddress = http://localhost:5014
+
+GET {{GlobalExceptionHandlerExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
